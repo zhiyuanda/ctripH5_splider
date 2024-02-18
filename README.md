@@ -9,7 +9,7 @@
 
 ## 网页GitHub地址如下：（若加载较慢建议刷新后耐心等待一会~）
 
-[ctripH5_splider](https://jiang-lijun.github.io/ctripH5_splider/)
+https://zhiyuanda.github.io/ctripH5_splider/
 
 ## 主要功能：
 
